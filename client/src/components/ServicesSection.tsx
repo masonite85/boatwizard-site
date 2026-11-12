@@ -14,7 +14,6 @@ export default function ServicesSection() {
       icon: Wrench,
       title: "Engine Repair & Maintenance",
       items: [
-        "Complete engine rebuilds",
         "Carburetor service",
         "Fuel system cleaning",
         "Electrical diagnostics",
